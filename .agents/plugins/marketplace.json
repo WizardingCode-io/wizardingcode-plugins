@@ -8,7 +8,7 @@
         "source": "git-subdir",
         "url": "https://github.com/WizardingCode-io/wizardingcode-mem.git",
         "path": "./plugins/codex",
-        "ref": "v0.4.4"
+        "ref": "v0.5.0"
       },
       "policy": { "installation": "AVAILABLE" },
       "category": "Productivity"
