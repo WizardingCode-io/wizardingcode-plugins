@@ -2,8 +2,8 @@
   "name": "wizardingcode-plugins",
   "owner": { "name": "WizardingCode", "url": "https://wizardingcode.io" },
   "metadata": {
-    "description": "WizardingCode's tools for coding agents: memory, and more to come.",
-    "version": "2.0.0"
+    "description": "WizardingCode's tools for coding agents: memory, a developer crew, and more to come.",
+    "version": "2.1.0"
   },
   "plugins": [
     {
@@ -17,6 +17,23 @@
       "keywords": ["memory", "context", "wizardingcode"],
       "category": "productivity",
       "source": { "source": "github", "repo": "WizardingCode-io/wizardingcode-mem", "ref": "v0.5.0" }
+    },
+    {
+      "name": "wizardingcode-developer-crew",
+      "description": "Guided delivery where done is proven: the crew engine detects your project, records test-first, runs the real build, tests and checks, and holds the turn until the evidence says the work is done.",
+      "version": "0.1.0",
+      "author": { "name": "WizardingCode", "url": "https://wizardingcode.io" },
+      "homepage": "https://github.com/WizardingCode-io/wizardingcode-developer-crew",
+      "repository": "https://github.com/WizardingCode-io/wizardingcode-developer-crew",
+      "license": "MIT",
+      "keywords": ["delivery", "tdd", "quality-gates", "evidence", "wizardingcode"],
+      "category": "productivity",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/WizardingCode-io/wizardingcode-developer-crew.git",
+        "path": "plugins/core",
+        "ref": "v0.1.0"
+      }
     }
   ]
 }
