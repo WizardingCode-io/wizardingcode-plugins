@@ -3,7 +3,7 @@
   "owner": { "name": "WizardingCode", "url": "https://wizardingcode.io" },
   "metadata": {
     "description": "WizardingCode's tools for coding agents: memory, a developer crew, and more to come.",
-    "version": "2.1.4"
+    "version": "2.1.5"
   },
   "plugins": [
     {
@@ -21,7 +21,7 @@
     {
       "name": "wizardingcode-developer-crew",
       "description": "Guided delivery where done is proven: the crew engine detects your project, records test-first, runs the real build, tests and checks, and holds the turn until the evidence says the work is done.",
-      "version": "0.1.4",
+      "version": "0.1.5",
       "author": { "name": "WizardingCode", "url": "https://wizardingcode.io" },
       "homepage": "https://github.com/WizardingCode-io/wizardingcode-developer-crew",
       "repository": "https://github.com/WizardingCode-io/wizardingcode-developer-crew",
@@ -32,7 +32,7 @@
         "source": "git-subdir",
         "url": "https://github.com/WizardingCode-io/wizardingcode-developer-crew.git",
         "path": "plugins/core",
-        "ref": "v0.1.4"
+        "ref": "v0.1.5"
       }
     }
   ]
