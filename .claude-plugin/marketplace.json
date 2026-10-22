@@ -6,7 +6,7 @@
   },
   "metadata": {
     "description": "WizardingCode's tools for coding agents: memory, a developer crew, and more to come.",
-    "version": "2.11.1"
+    "version": "2.11.2"
   },
   "plugins": [
     {
@@ -35,7 +35,7 @@
     {
       "name": "wizardingcode-developer-crew",
       "description": "Guided delivery where done is proven: the crew engine detects your project, records test-first, runs the real build, tests and checks, and holds the turn until the evidence says the work is done.",
-      "version": "0.11.1",
+      "version": "0.11.2",
       "author": {
         "name": "WizardingCode",
         "url": "https://wizardingcode.io"
@@ -55,13 +55,13 @@
         "source": "git-subdir",
         "url": "https://github.com/WizardingCode-io/wizardingcode-developer-crew.git",
         "path": "plugins/core",
-        "ref": "v0.11.1"
+        "ref": "v0.11.2"
       }
     },
     {
       "name": "wizardingcode-pack-laravel",
-      "description": "A stack pack for the WizardingCode Developer Crew: Laravel's test, lint and type-check commands proposed on a tree with artisan, three checklists for the gap round and one knowledge file for the expert. Data the crew engine serves, never code; needs the core plugin at 0.11.1 or later.",
-      "version": "0.11.1",
+      "description": "A stack pack for the WizardingCode Developer Crew: Laravel's test, lint and type-check commands proposed on a tree with artisan, three checklists for the gap round and one knowledge file for the expert. Data the crew engine serves, never code; needs the core plugin at 0.11.2 or later.",
+      "version": "0.11.2",
       "author": {
         "name": "WizardingCode",
         "url": "https://wizardingcode.io"
@@ -80,13 +80,13 @@
         "source": "git-subdir",
         "url": "https://github.com/WizardingCode-io/wizardingcode-developer-crew.git",
         "path": "packs/laravel",
-        "ref": "v0.11.1"
+        "ref": "v0.11.2"
       }
     },
     {
       "name": "wizardingcode-pack-agentic-os",
-      "description": "A team pack for the WizardingCode Developer Crew: the agentic team seated on the paths where agents, skills, prompts and hooks live, three checklists for the gap round and one knowledge file for the expert. Data the crew engine serves, never code; needs the core plugin at 0.11.1 or later.",
-      "version": "0.11.1",
+      "description": "A team pack for the WizardingCode Developer Crew: the agentic team seated on the paths where agents, skills, prompts and hooks live, three checklists for the gap round and one knowledge file for the expert. Data the crew engine serves, never code; needs the core plugin at 0.11.2 or later.",
+      "version": "0.11.2",
       "author": {
         "name": "WizardingCode",
         "url": "https://wizardingcode.io"
@@ -105,7 +105,7 @@
         "source": "git-subdir",
         "url": "https://github.com/WizardingCode-io/wizardingcode-developer-crew.git",
         "path": "packs/agentic-os",
-        "ref": "v0.11.1"
+        "ref": "v0.11.2"
       }
     }
   ]
