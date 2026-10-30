@@ -107,6 +107,85 @@
         "path": "packs/agentic-os",
         "ref": "v0.15.2"
       }
+    },
+    {
+      "name": "wizardingcode-pack-frontend",
+      "description": "A team pack for frontend work, served by the crew engine of wizardingcode-developer-crew: a team template that seats the frontend team on the paths where pages, components, styles and design tokens live, three checklists for the gap round (screen, motion, design contract) and two knowledge files for the expert. Data only: no code, no skill, no agent, no hook.",
+      "version": "0.15.2",
+      "author": {
+        "name": "WizardingCode",
+        "url": "https://wizardingcode.io"
+      },
+      "homepage": "https://github.com/WizardingCode-io/wizardingcode-developer-crew",
+      "repository": "https://github.com/WizardingCode-io/wizardingcode-developer-crew",
+      "license": "MIT",
+      "keywords": [
+        "wizardingcode",
+        "pack",
+        "frontend",
+        "motion",
+        "design",
+        "crew"
+      ],
+      "category": "productivity",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/WizardingCode-io/wizardingcode-developer-crew.git",
+        "path": "packs/frontend",
+        "ref": "v0.16.0"
+      }
+    },
+    {
+      "name": "wizardingcode-pack-nuxt",
+      "description": "Knowledge and verification for Nuxt 4.x, served by the crew engine of wizardingcode-developer-crew: a detector rule that proposes the project's test, lint and type-check commands and the scoped test template, and one knowledge file for the expert. Data only: no code, no skill, no agent, no hook.",
+      "version": "0.15.2",
+      "author": {
+        "name": "WizardingCode",
+        "url": "https://wizardingcode.io"
+      },
+      "homepage": "https://github.com/WizardingCode-io/wizardingcode-developer-crew",
+      "repository": "https://github.com/WizardingCode-io/wizardingcode-developer-crew",
+      "license": "MIT",
+      "keywords": [
+        "wizardingcode",
+        "pack",
+        "nuxt",
+        "vue",
+        "crew"
+      ],
+      "category": "productivity",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/WizardingCode-io/wizardingcode-developer-crew.git",
+        "path": "packs/nuxt",
+        "ref": "v0.16.0"
+      }
+    },
+    {
+      "name": "wizardingcode-pack-next",
+      "description": "Knowledge and verification for Next.js 16.x, served by the crew engine of wizardingcode-developer-crew: a detector rule that proposes the project's test and lint commands and the scoped test template (the type check is the core's, from tsconfig.json), and one knowledge file for the expert. Data only: no code, no skill, no agent, no hook.",
+      "version": "0.15.2",
+      "author": {
+        "name": "WizardingCode",
+        "url": "https://wizardingcode.io"
+      },
+      "homepage": "https://github.com/WizardingCode-io/wizardingcode-developer-crew",
+      "repository": "https://github.com/WizardingCode-io/wizardingcode-developer-crew",
+      "license": "MIT",
+      "keywords": [
+        "wizardingcode",
+        "pack",
+        "next",
+        "react",
+        "crew"
+      ],
+      "category": "productivity",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/WizardingCode-io/wizardingcode-developer-crew.git",
+        "path": "packs/next",
+        "ref": "v0.16.0"
+      }
     }
   ]
 }
