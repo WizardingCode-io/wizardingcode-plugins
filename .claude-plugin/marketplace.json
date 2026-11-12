@@ -12,7 +12,7 @@
     {
       "name": "wizardingcode-mem",
       "description": "Persistent memory across sessions: what each session learns, the next one is told. One local binary, no daemon, no LLM in the loop.",
-      "version": "0.7.0",
+      "version": "0.8.0",
       "author": {
         "name": "WizardingCode",
         "url": "https://wizardingcode.io"
@@ -29,7 +29,7 @@
       "source": {
         "source": "github",
         "repo": "WizardingCode-io/wizardingcode-mem",
-        "ref": "v0.7.0"
+        "ref": "v0.8.0"
       }
     },
     {
